@@ -65,6 +65,9 @@ parts:
           - file: core/xarray/computation-masking
           - file: core/xarray/enso-xarray
           - file: core/xarray/dask-arrays-xarray
+  - caption: Postamble
+    chapters:
+      - file: postamble/references
   - caption: Appendix
     chapters:
       - file: appendix/how-to-contribute

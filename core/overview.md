@@ -5,7 +5,7 @@ As you might know by now that Python is a programming language. To make your job
 ## Core libraries
 
 Most geoscience data analysis involves working with numerical arrays.
-The default library for dealing with numerical arrays in Python is [NumPy](http://www.numpy.org/).
+The default library for dealing with numerical arrays in Python is [NumPy](http://www.numpy.org/){cite:p}`numpy_paper`.
 It has some built in functions for calculating very simple statistics
 (e.g. maximum, mean, standard deviation),
 but for more complex analysis
